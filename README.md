@@ -1,0 +1,1 @@
+Niniejsze repozytorium zawiera dane proteomiczne oraz figury otrzymane w ramach pracy pt. "Badania funkcjonalne enzymów dekapujących, poszukiwania ich partnerów komórkowych i eksploracja wzajemnych zależności w tworzonych kompleksach białkowych"
